@@ -1,2 +1,3 @@
 # ML_and_DA_MIPT_Yandex
- MIPT and Yandex course
+ 
+ Machine Learning and Yandex course specialization on Coursera
