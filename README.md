@@ -4,4 +4,3 @@ Machine Learning and Yandex course specialization on Coursera
 ------------------------------------------------------------------------
 https://www.coursera.org/specializations/machine-learning-data-analysis
 
-cxcxcxcxcxc
